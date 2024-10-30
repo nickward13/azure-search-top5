@@ -1,0 +1,25 @@
+{
+  "student_id": "45678",
+  "student_name": "David Brown",
+  "assessment_id": "67893",
+  "assessment_name": "History Test 1",
+  "score": 76,
+  "date": "2023-04-06",
+  "details": {
+    "questions": [
+      {
+        "question_id": "1",
+        "question_text": "Who was the first President of the United States?",
+        "answer": "George Washington",
+        "score": 10
+      },
+      {
+        "question_id": "2",
+        "question_text": "What year did World War II end?",
+        "answer": "1945",
+        "score": 10
+      }
+    ],
+    "total_score": 76
+  }
+}

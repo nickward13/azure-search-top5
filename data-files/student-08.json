@@ -1,0 +1,25 @@
+{
+  "student_id": "67890",
+  "student_name": "James Wilson",
+  "assessment_id": "67895",
+  "assessment_name": "English Test 1",
+  "score": 91,
+  "date": "2023-04-06",
+  "details": {
+    "questions": [
+      {
+        "question_id": "1",
+        "question_text": "Define 'metaphor'.",
+        "answer": "A figure of speech involving a comparison",
+        "score": 10
+      },
+      {
+        "question_id": "2",
+        "question_text": "What is the synonym of 'happy'?",
+        "answer": "Joyful",
+        "score": 10
+      }
+    ],
+    "total_score": 91
+  }
+}

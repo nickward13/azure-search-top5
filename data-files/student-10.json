@@ -1,0 +1,25 @@
+{
+  "student_id": "89012",
+  "student_name": "Charles Martinez",
+  "assessment_id": "67897",
+  "assessment_name": "Science Test 2",
+  "score": 84,
+  "date": "2023-04-06",
+  "details": {
+    "questions": [
+      {
+        "question_id": "1",
+        "question_text": "What planet is known as the Red Planet?",
+        "answer": "Mars",
+        "score": 10
+      },
+      {
+        "question_id": "2",
+        "question_text": "What is the chemical symbol for gold?",
+        "answer": "Au",
+        "score": 10
+      }
+    ],
+    "total_score": 84
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "student_id": "12345",
+  "student_name": "Jane Doe",
+  "assessment_id": "67890",
+  "assessment_name": "Math Test 1",
+  "score": 95,
+  "date": "2023-04-06",
+  "details": {
+    "questions": [
+      {
+        "question_id": "1",
+        "question_text": "What is 2 + 2?",
+        "answer": "4",
+        "score": 10
+      },
+      {
+        "question_id": "2",
+        "question_text": "What is the square root of 9?",
+        "answer": "3",
+        "score": 10
+      }
+    ],
+    "total_score": 95
+  }
+}
+  

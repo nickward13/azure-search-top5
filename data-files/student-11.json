@@ -1,0 +1,25 @@
+{
+  "student_id": "90123",
+  "student_name": "Barbara Anderson",
+  "assessment_id": "67898",
+  "assessment_name": "History Test 2",
+  "score": 89,
+  "date": "2023-04-06",
+  "details": {
+    "questions": [
+      {
+        "question_id": "1",
+        "question_text": "Who wrote the Declaration of Independence?",
+        "answer": "Thomas Jefferson",
+        "score": 10
+      },
+      {
+        "question_id": "2",
+        "question_text": "What year was the Constitution of the United States ratified?",
+        "answer": "1788",
+        "score": 10
+      }
+    ],
+    "total_score": 89
+  }
+}

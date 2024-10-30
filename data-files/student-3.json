@@ -1,0 +1,25 @@
+{
+    "student_id": "34567",
+    "student_name": "Mary Johnson",
+    "assessment_id": "67892",
+    "assessment_name": "Science Test 1",
+    "score": 92,
+    "date": "2023-04-06",
+    "details": {
+    "questions": [
+        {
+        "question_id": "1",
+        "question_text": "What is H2O?",
+        "answer": "Water",
+        "score": 10
+        },
+        {
+        "question_id": "2",
+        "question_text": "What is the boiling point of water?",
+        "answer": "100°C",
+        "score": 10
+        }
+    ],
+    "total_score": 92
+    }
+}
